@@ -10,7 +10,9 @@ macOS Catalina/Windows 10, Unity Version 2020.1.5f1, Visual Studio 2019
 WebGL, reference resolution 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./Screenshots/Screenshot.JPG" width="500">
+</div>
 
 ### Necessary setup/execution steps: 
 none
